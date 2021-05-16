@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-
+// This class is used for storing Buckets modes to database
 public class BucketDaoImpl implements BucketDao {
 
     private static String READ_ALL = "select * from bucket";
